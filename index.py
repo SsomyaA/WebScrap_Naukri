@@ -125,46 +125,7 @@ for each_url in post_url:
 
 
         excel_array.append(each_opening_array)
-        # print(excel_array)
 
-
-        # print(excel_array)
-
-        # print(profile_name)
-        # print(position)
-        # print(exp_year)
-        # print(location)
-        # print(salary)
-        # print(openings_no)
-        # print(posting_date)
-        # print(number_of_applicant)
-        # print(number_of_view)
-        #
-        # print(industry)
-        # print(functional_area)
-        # print(role_category)
-        # print(role)
-        # print(employment_type)
-        # print(skills)
-
-
-        # if counter > 3:
-        #     Wb.close()
-
-        # print(counter)
-        # # Sh.write(0,0,counter)
-        # col_list_val = [profile_name, position, exp_year, location, salary, openings_no, posting_date, number_of_applicant,number_of_view, industry, functional_area, role_category, role, employment_type, skills]
-        # print(len(col_list_val))
-        # print(col_list_val)
-        # for row in range(0, counter):
-        #     for col in range(0, 16):
-        #         Sh.write(row, col, col_list_val[col])
-        #         # Sh.write(row, col, col)
-        #         # print(col_list_val[col])
-        #
-        #     # Sh.write(row, 0, row)
-        # Wb.close()
-        #         # print(col_list_val[col])
 
 
 
